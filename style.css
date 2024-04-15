@@ -6,3 +6,10 @@ body {
   background-color: #000000;
   font-family: sans-serif;
 }
+.title {
+  color: #5500aa;
+}
+
+.subtitle {
+  color:#220077
+}
